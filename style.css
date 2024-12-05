@@ -177,3 +177,78 @@ h2{
 
 }
 
+
+/* Footer */
+.nav-footer{
+    margin-top: 10px;
+    height: 50px;
+    background-color: #37475A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back{
+    color: white;
+    font-size: 0.85rem;
+}
+
+.footer{ 
+    height: 250px;
+    background-color: #232f3e;
+    color: white;
+    display: flex;
+}
+
+.footer h6{
+    font-size: larger;
+}
+.blocks{
+    height: 200px;
+    display: flex;
+    justify-content:space-evenly;
+    width: 100%;
+    margin-top: 30px;
+    font-size: 0.85rem;
+    
+}
+.footer-logo{
+    height:100px;
+    background-color: #232f3e;
+    border-top: 0.2px solid rgb(176, 176, 176);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.amazon-logo{
+    
+    height: 40px;
+    width: 100px;
+    background-size: contain;
+    background-image: url(./images/logo.png);
+    border-radius: 5px;
+}
+
+.english{
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 100px;
+    border: 0.2px solid rgb(176, 176, 176);
+    border-radius: 5px;
+}
+
+.india{
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 100px;
+    border: 0.2px solid rgb(176, 176, 176);
+    border-radius: 5px;
+
+}
